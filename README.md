@@ -1,103 +1,219 @@
 # Marcelo Souza Vieira
 
-**CTO Contabilidade.com**  
-Florianópolis, SC, Brasil  
+Principal Engineer | Distributed Systems Architect | Cloud-Native Platform Builder  
+Brazil 🇧🇷 | Open to Remote & Relocation Opportunities  
+
 [LinkedIn](https://www.linkedin.com/in/marcelo-souza-vieira-112174a9) | marcelosouzav@gmail.com  
 
 ---
 
-## Sobre mim
+## 👋 About Me
 
-Sou um profissional com quase 20 anos de experiência em tecnologia, apaixonado por construir soluções escaláveis e liderar times de alta performance. Minha atuação tem foco em **arquitetura de sistemas, engenharia de software e liderança técnica**, sempre promovendo inovação com impacto real.
+I am a Principal-level engineer with over 20 years of experience designing, building and scaling distributed systems.
 
-Atualmente, sou **CTO e sócio da Sellers**, onde lidero um time multidisciplinar em uma jornada de crescimento escalável com base em **microservices, DevOps e Cloud Computing**.
+My core expertise lies in cloud-native architecture, microservices ecosystems and multi-tenant SaaS platforms. Over the last decade, I have focused on building systems that are resilient, scalable and economically sustainable.
 
----
+I operate at the intersection of deep technical architecture and long-term product scalability.
 
-## Visão Geral da Trajetória
-
-- **20 anos de experiência** em tecnologia com atuação prática em grandes desafios.
-- **Líder técnico e estratégico**, com histórico de entrega de produtos de alto impacto e mentoria de times.
-- **Open source contributor** e autor do livro *Sprint Architecture*, compartilhando práticas de arquitetura em times ágeis.
+I have experience leading engineering organizations, but I remain deeply hands-on and architecture-driven.
 
 ---
 
-## Principais Entregas & Impactos
+## 🎯 What I Specialize In
 
-### Sellers (2021 - atual)
-**CTO & Partner**
+I work best in environments where:
 
-- **+600% de crescimento em volume de dados** com arquitetura de microservices assíncronos (Kafka, RabbitMQ).
-- **R$30 mil/mês em economia** com otimizações de GKE, BigQuery e autoscaling.
-- **Motor de campanhas em BigQuery** processando milhões de transações/dia com baixa latência.
-- **Implantação de CI/CD (GitHub Actions + SonarQube)**, reduzindo tempo de deploy em 80%.
-- Expansão do time de engenharia com foco em cultura ágil e inovação contínua.
-
-### Evoluum (2018 - 2021)
-**Co-Founder, CTO & Head de Arquitetura/SRE**
-
-- Lançamento do **Konta Digital**, primeiro app financeiro do varejo catarinense.
-- **99,99% de uptime** com infraestrutura GKE + Istio + Prometheus + Elastic APM.
-- Redução de **70% no tempo de deploy** com GitLab CI e GitHub Actions.
-- Liderança em projetos de alto impacto: app Unimed Grande Florianópolis, Marketplace Koerich.
-
-### ContaAzul, Involves, Trier, Infobec (2015 - 2019)
-
-- Unificação de login com Keycloak na ContaAzul usando OAuth2/OIDC.
-- Fundador do time de arquitetura da Involves, definindo padrões de microservices e promovendo cultura de engenharia moderna.
-- Arquitetura EDA na Trier com migração de monolito para microservices (Kafka/RabbitMQ).
+- Systems must scale horizontally
+- Architecture decisions have long-term impact
+- Performance and cost must be balanced
+- Multi-tenant SaaS complexity exists
+- Distributed systems reliability is critical
+- Engineering standards need to be defined or elevated
 
 ---
 
-## Especialidades Técnicas
+## 🧠 Technical Depth
 
-- **Arquitetura de Sistemas**: Microservices, Event-Driven, SOA, DDD.
-- **Cloud & DevOps**: GCP (GKE, BigQuery), AWS, Istio, GitLab CI, GitHub Actions.
-- **Observabilidade**: Elastic APM, Prometheus, Grafana.
-- **Banco de Dados**: PostgreSQL, BigQuery, MongoDB, Redis.
-- **Mensageria**: Kafka, RabbitMQ.
-- **Segurança**: OAuth2, JWT, Spring Security.
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Docker.
+### Distributed Systems Architecture
 
----
+I design systems with:
 
-## Contribuições Open Source
+- Clear domain boundaries (Domain-Driven Design)
+- Asynchronous communication patterns
+- Event-driven workflows
+- Horizontal scalability
+- Failure tolerance as a first-class concern
 
-- **Apache Software Foundation**: Committer e PMC Member.
-- Projetos: Apache Juneau, JNoSQL (com a Eclipse Foundation).
-- **Livro**: *Sprint Architecture* – práticas de arquitetura para sprints ágeis.
-- **Instrutor**: Cursos de Java com milhares de alunos na Udemy.
+I strongly believe that architecture should enable team autonomy and system evolution over time.
 
 ---
 
-## Reconhecimento Profissional
+### Cloud-Native & Kubernetes
 
-De acordo com avaliações técnicas de profissionais de liderança, o perfil de Marcelo atende — e em diversos pontos excede — os critérios esperados de um profissional em empresas de alto nível técnico.
+Extensive experience designing cloud-native systems using:
 
-Seu histórico evidencia:
+- Kubernetes-based microservices
+- Containerized environments
+- Infrastructure optimization strategies
+- Cost governance (FinOps mindset)
+- Observability-first architecture
 
-- Domínio avançado em arquitetura de sistemas distribuídos e event-driven.
-- Capacidade comprovada de gerar impacto organizacional sistêmico com entregas de alta escala e redução de custos.
-- Atuação como líder técnico influente, promovendo cultura de engenharia, mentoria e boas práticas em múltiplas organizações.
-- Reconhecimento externo através de contribuições open source (Apache Software Foundation), publicação de livro técnico e milhares de alunos impactados em cursos.
-
-
-
----
-
-## Formação Acadêmica
-
-- **Tecnologia em Sistemas para Internet** – UNISUL
-- **Inglês** – Limerick Language Centre (Irlanda)
-- Diversos cursos técnicos em arquitetura e Java (Caelum)
+My focus is not only performance — but sustainable scalability.
 
 ---
 
-## Propósito
+### Event-Driven Systems
 
-Liderar com inovação, formar times excelentes e construir soluções de tecnologia que escalem negócios com impacto real.
+Designed and implemented asynchronous systems using messaging platforms such as:
+
+- RabbitMQ
+- Kafka (conceptual and architectural level)
+
+Applied patterns such as:
+
+- Event choreography
+- Decoupled service communication
+- Resilient retry mechanisms
+- Eventual consistency strategies
 
 ---
 
-> “A melhor arquitetura é aquela que permite que a equipe evolua com confiança e velocidade.”  
-> — Marcelo Souza Vieira
+### Multi-Tenant SaaS Architecture
+
+Built and structured multi-tenant SaaS platforms with:
+
+- Logical tenant isolation
+- Shared infrastructure optimization
+- Scalable campaign processing engines
+- Financial transaction layers
+- Data analytics pipelines
+
+Key concerns addressed:
+
+- Data isolation
+- Concurrency control
+- Transaction safety
+- Cost-performance balance
+
+---
+
+## 🏗 Architecture Experience
+
+### SaaS Incentive & Financial Platform
+
+Designed from scratch:
+
+- Microservices ecosystem
+- Kubernetes infrastructure
+- Campaign processing engine
+- BI and data analytics layer
+- Financial payment integration layer
+- Observability stack
+
+Key challenges:
+
+- High concurrency financial operations
+- Campaign logic complexity
+- Multi-client scaling
+- Infrastructure cost optimization
+
+---
+
+### Enterprise Systems Delivery
+
+Led architecture across 11 concurrent enterprise-grade projects including:
+
+- Retail marketplace platforms
+- Healthcare mobile applications
+- Financial product systems
+- ERP integrations
+
+Focused on:
+
+- Migrating monolithic systems to microservices
+- CI/CD standardization
+- Identity provider integration (OAuth2 / OIDC / JWT)
+- Architectural governance across multiple teams
+
+---
+
+## 🛠 Core Technology Stack
+
+**Backend**
+- Java (20+ years)
+- Spring Boot
+- REST APIs
+- Secure authentication flows
+
+**Architecture**
+- Microservices
+- Domain-Driven Design (DDD)
+- Event-Driven Architecture
+
+**Cloud & Infrastructure**
+- Kubernetes
+- Docker
+- GCP
+- AWS
+
+**Messaging**
+- RabbitMQ
+
+**Data**
+- PostgreSQL
+- BigQuery
+- MongoDB
+- Redis
+
+**DevOps**
+- CI/CD pipelines
+- Infrastructure automation
+- Monitoring & observability strategies
+
+---
+
+## 📚 Open Source & Community
+
+- Committer & PMC Member at Apache Software Foundation
+- Contributor to Java ecosystem initiatives
+- Technical author (book on agile architecture)
+- Active mentor and speaker
+
+Open source is part of how I refine architectural thinking and contribute to sustainable engineering practices.
+
+---
+
+## 📈 Engineering Philosophy
+
+I believe:
+
+- Architecture should reduce cognitive load, not increase it.
+- Systems must be designed for failure.
+- Observability is not optional.
+- Technical debt must be consciously managed.
+- Cost efficiency is an architectural responsibility.
+- Senior engineers must think in systems, not tickets.
+
+---
+
+## 🌍 Currently Interested In
+
+- Principal Engineer roles
+- Staff Engineer roles
+- Platform Architecture
+- Cloud-Native Systems
+- Distributed Systems at scale
+- International environments (Remote or Relocation)
+
+---
+
+## 📫 Contact
+
+Email: marcelosouzav@gmail.com  
+LinkedIn: linkedin.com/in/marcelo-souza-vieira  
+
+---
+
+> “Build systems that scale technically, financially and organizationally.”
+---
+
